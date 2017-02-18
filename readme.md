@@ -69,6 +69,7 @@ System](documents/the-rise-of-the-headless-cms.pdf) by [@forrester](https://twit
 ### Resources
 
 [Decoupled CMS](http://decoupledcms.org/)  
+[Headless CMS](https://headlesscms.org/)  
 
 
 
