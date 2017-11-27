@@ -64,7 +64,8 @@ System](documents/the-rise-of-the-headless-cms.pdf) by [@forrester](https://twit
 [Osmek](http://osmek.com/)  
 [Webhook](http://www.webhook.com/)  
 [CosmicJS](https://cosmicjs.com/)  
-[Perch Runaway](https://perchrunway.com/)  
+[Perch Runaway](https://perchrunway.com/) 
+[Tipe](https://tipe.io/) 
 
 ### Resources
 
