@@ -28,6 +28,7 @@
 [Use Cases for a Headless CMS](http://gadgetopia.com/post/9743) by [@gadgetopia](https://twitter.com/gadgetopia/)  
 [Decoupled CMS is the New Black](http://gadgetopia.com/post/7330) by [@gadgetopia](https://twitter.com/gadgetopia/)  
 [Sitecore as a true headless CMS](https://www.sitecore.net/da-dk/company/blog/356/sitecore-as-a-true-headless-cms-4418) by [@Sitecore](https://twitter.com/Sitecore)
+[foo](http://foo) by [@fooo](bar)
 
 ### Documents
 
