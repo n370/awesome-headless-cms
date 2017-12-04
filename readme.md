@@ -27,8 +27,8 @@
 [Headless vs. Decoupled CMS Architecture](https://hackernoon.com/headless-vs-decoupled-cms-architecture-e240838fbc99) by [@carsoncgibbons](https://twitter.com/carsoncgibbons)  
 [Use Cases for a Headless CMS](http://gadgetopia.com/post/9743) by [@gadgetopia](https://twitter.com/gadgetopia/)  
 [Decoupled CMS is the New Black](http://gadgetopia.com/post/7330) by [@gadgetopia](https://twitter.com/gadgetopia/)  
-[Sitecore as a true headless CMS](https://www.sitecore.net/da-dk/company/blog/356/sitecore-as-a-true-headless-cms-4418) by [@Sitecore](https://twitter.com/Sitecore)
-[foo](http://foo) by [@fooo](bar)
+[Sitecore as a true headless CMS](https://www.sitecore.net/da-dk/company/blog/356/sitecore-as-a-true-headless-cms-4418) by [@Sitecore](https://twitter.com/Sitecore)   
+[Building Decoupled Sites and Apps with GraphQL and Next.js](https://malloc.fi/building-decoupled-sites-and-apps-with-graphql-and-next-js) by [@velmu](https://twitter.com/velmu)
 
 ### Documents
 
@@ -38,7 +38,8 @@ System](documents/the-rise-of-the-headless-cms.pdf) by [@forrester](https://twit
 
 ### Speakerdecks
 
-[WordPress as a Headless CMS](https://www.slideshare.net/WordCampSydney/wordpress-as-a-headless-cms) by [@bronsonquick](https://twitter.com/bronsonquick)
+[WordPress as a Headless CMS](https://www.slideshare.net/WordCampSydney/wordpress-as-a-headless-cms) by [@bronsonquick](https://twitter.com/bronsonquick) 
+[Easy decoupled sitebuilding with GraphQL and Next.js](https://janit.iki.fi/cms-graphql-nextjs/#/)
 
 ### Webinars
 
@@ -47,7 +48,8 @@ System](documents/the-rise-of-the-headless-cms.pdf) by [@forrester](https://twit
 
 ### Videos
 
-[A Conscious Uncoupling: WordPress as a Headless CMS](https://www.youtube.com/watch?v=RDx6G287WKo) by [@krissierae](https://twitter.com/krissierae)  
+[A Conscious Uncoupling: WordPress as a Headless CMS](https://www.youtube.com/watch?v=RDx6G287WKo) by [@krissierae](https://twitter.com/krissierae) 
+[Easy decoupled sitebuilding with GraphQL and Next.js](https://www.youtube.com/watch?v=XcWsa3s8GnE)
 
 ### Projects
 
@@ -66,7 +68,8 @@ System](documents/the-rise-of-the-headless-cms.pdf) by [@forrester](https://twit
 [Webhook](http://www.webhook.com/)  
 [CosmicJS](https://cosmicjs.com/)  
 [Perch Runaway](https://perchrunway.com/)   
-[Tipe](https://tipe.io/) 
+[Tipe](https://tipe.io/)  
+[Decoupled CMS example with GraphQL and Next.js](https://github.com/janit/decoupled-cms-nextjs-graphql)
 
 ### Resources
 
