@@ -18,7 +18,7 @@
 [Should you Decouple?](https://www.lullabot.com/articles/should-you-decouple) by [@lullabot](https://twitter.com/lullabot)  
 [Blackstar, the API-first, headless CMS built for developers](http://withouttheloop.com/articles/2016-04-27-headless-cms/) by [@liammclennan](https://twitter.com/liammclennan)  
 [The Ultimate Guide for Headless Content Management Systems](http://www.cms-connected.com/News-Archive/December-2016/The-Ultimate-Guide-for-Headless-Content-Management) by [@cmsconnected](https://twitter.com/cmsconnected)
-[Built.io wants to challenge Drupal and WordPress with its headless CMS](https://techcrunch.com/2016/03/10/built-io-wants-to-challenge-drupal-and-wordpress-with-its-headless-cms/) by [@TechCrunch](https://twitter.com/techcrunch)
+[Built.io wants to challenge Drupal and WordPress with its headless CMS](https://techcrunch.com/2016/03/10/built-io-wants-to-challenge-drupal-and-wordpress-with-its-headless-cms/) by [@TechCrunch](https://twitter.com/techcrunch)   
 [Headless CMS](https://www.jpkeisala.com/headless-cms/) by [@jpkeisala](https://twitter.com/jpkeisala)  
 [What is a headless CMS?](http://www.oshyn.com/Blogs/2016/december/Headless-CMS) by [@Oshyn_Inc](https://twitter.com/Oshyn_Inc)  
 [Perch Runway 3 as a Headless CMS](https://grabaperch.com/blog/archive/perch-runway-3-as-a-headless-cms) by [@grabaperch](https://twitter.com/grabaperch)  
