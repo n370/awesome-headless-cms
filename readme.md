@@ -53,6 +53,7 @@ System](documents/the-rise-of-the-headless-cms.pdf) by [@forrester](https://twit
 
 ### Projects
 
+[Superdesk](https://www.superdesk.org/)
 [Strapi](https://strapi.io/)  
 [Directus](https://getdirectus.com/)  
 [Graph CMS](https://graphcms.com/)  
