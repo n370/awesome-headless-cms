@@ -2,7 +2,7 @@
 
 ### Articles
 
-[Headless CMS: Learn the What, Why, and How?](https://buttercms.com/blog/headless-cms-learn-the-what-why-and-how) by [@buttercms](https://github.com/chriscoyier) 
+[Headless CMS: Learn the What, Why, and How?](https://buttercms.com/blog/headless-cms-learn-the-what-why-and-how) by [@buttercms](https://github.com/buttercms) 
 [What is a Headless CMS?](https://css-tricks.com/what-is-a-headless-cms/) by [@chriscoyer](https://github.com/chriscoyier)  
 [Headless and decoupled CMS: the essential guide](https://www.contentful.com/r/knowledgebase/headless-and-decoupled-cms/) by [@contentiful](https://github.com/contentful)  
 [Content as a Service (CaaS): Decoupled CMS and Headless CMS 101](https://ez.no/Blog/Content-as-a-Service-CaaS-Decoupled-CMS-and-Headless-CMS-101) by [@eZSystems](https://twitter.com/ezsystems)  
