@@ -75,7 +75,8 @@ System](documents/the-rise-of-the-headless-cms.pdf) by [@forrester](https://twit
 [Perch Runaway](https://perchrunway.com/)   
 [Tipe](https://tipe.io/)  
 [unite cms](https://www.unitecms.io/)  
-[StoryBlok](https://www.storyblok.com/)
+[StoryBlok](https://www.storyblok.com/)  
+[Cockpit](https://getcockpit.com/)
 
 ### Resources
 
