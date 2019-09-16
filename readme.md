@@ -76,7 +76,8 @@ System](documents/the-rise-of-the-headless-cms.pdf) by [@forrester](https://twit
 [Tipe](https://tipe.io/)  
 [unite cms](https://www.unitecms.io/)  
 [StoryBlok](https://www.storyblok.com/)  
-[Cockpit](https://getcockpit.com/)
+[Cockpit](https://getcockpit.com/)  
+[Zesty](https://www.zesty.io/)
 
 ### Resources
 
