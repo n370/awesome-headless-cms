@@ -78,7 +78,8 @@ System](documents/the-rise-of-the-headless-cms.pdf) by [@forrester](https://twit
 [StoryBlok](https://www.storyblok.com/)  
 [Cockpit](https://getcockpit.com/)  
 [Zesty](https://www.zesty.io/)  
-[Agility CMS](https://agilitycms.com/)
+[Agility CMS](https://agilitycms.com/)  
+[CraftCMS](https://docs.craftcms.com/v3/dev/headless.html/)  
 
 ### Resources
 
