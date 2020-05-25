@@ -80,7 +80,7 @@ System](documents/the-rise-of-the-headless-cms.pdf) by [@forrester](https://twit
 [Agility CMS](https://agilitycms.com/)  
 [CraftCMS](https://docs.craftcms.com/v3/dev/headless.html)  
 [KeystoneJS](https://keystonejs.com/)  
-
+[Flextype](https://flextype.org/)  
 
 ### Resources
 
