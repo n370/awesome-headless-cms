@@ -38,6 +38,7 @@
 [The Rise Of The Headless Content Management
 System](documents/the-rise-of-the-headless-cms.pdf) by [@forrester](https://twitter.com/forrester)  
 [The case for headless CMS](documents/EffectiveUI_HeadlessCMS.pdf) by [@effectiveui](https://twitter.com/effectiveui/)  
+[State of the Headless CMS Market 2020](https://tracker.kontent.ai/592920/state-of-the-headless-cms-market-2020) by [@kenticokontent](https://twitter.com/kenticokontent/)
 
 ### Speakerdecks
 
@@ -69,6 +70,7 @@ System](documents/the-rise-of-the-headless-cms.pdf) by [@forrester](https://twit
 [dotCMS](http://dotcms.com/)  
 [Flextype](https://flextype.org/)  
 [Graph CMS](https://graphcms.com/)  
+[Kentico Kontent](https://kontent.ai/)  
 [KeystoneJS](https://keystonejs.com/)  
 [Narwhal CMS](http://www.narwhalcms.com/) 
 [prismic.io](https://prismic.io/) 
