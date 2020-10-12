@@ -94,6 +94,7 @@ A community curated list of Headless CMS tools, blogs and other resources.
 * [unite cms](https://www.unitecms.io/) - Unite CMS allows you to connect and manage all your digital project's data in one single backend.
 * [Zesty](https://www.zesty.io/) - A cloud content management system for businesses to create and distribute content to websites and other digital experiences at scale.
 
+
 ## Resources
 
 * [Headless CMS](https://headlesscms.org/) - A List of Content Management Systems for Jamstack Sites.
