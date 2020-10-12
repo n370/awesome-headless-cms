@@ -86,6 +86,7 @@ A community curated list of Headless CMS tools, blogs and other resources.
 * [KeystoneJS](https://keystonejs.com/) - Configure your schema in JavaScript, and KeystoneJS will generate a powerful GraphQL API and CMS.
 * [prismic.io](https://prismic.io/) - Prismic is a Content Management System, a tool for editing online content.
 * [Perch Runaway](https://perchrunway.com/) - A powerful CMS for developing content-centric websites.
+* [Silverstripe CMS](https://www.silverstripe.org) - A rapid development MVC framework which can be queried either via GraphQL or a custom API.
 * [Tipe](https://tipe.io/) - Tipe is a customizable, open-source headless CMS for structured content.
 * [StoryBlok](https://www.storyblok.com/) - Storyblok helps your team to tell your story and manage content for every use-case.
 * [Superdesk](https://www.superdesk.org/) - Superdesk is a state-of-the-art digital newsroom system.
