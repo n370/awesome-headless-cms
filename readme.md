@@ -18,6 +18,7 @@ A community curated list of Headless CMS tools, blogs and other resources.
 
 ## Articles
 
+* [Headless CMS Options for your Jamstack Website](https://bejamas.io/blog/headless-cms/) - [@bejamas_io](https://twitter.com/bejamas_io).
 * [Headless CMS: Learn the What, Why, and How?](https://buttercms.com/blog/headless-cms-learn-the-what-why-and-how) - [@buttercms](https://github.com/buttercms).
 * [Content as a Service: Your Guide to the What, Why, and How?](https://buttercms.com/blog/content-as-a-service-your-guide-to-the-what-why-and-how) - [@buttercms](https://github..com/buttercms).
 * [Headless CMS explained in 5 minutes](https://www.storyblok.com/tp/headless-cms-explained) - [@storyblok](https://github.com/storyblok/).
