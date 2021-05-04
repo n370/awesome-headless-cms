@@ -85,6 +85,7 @@ A community curated list of Headless CMS tools, blogs and other resources.
 * [Graph CMS](https://graphcms.com/) - Rapidly deliver digital content at scale.
 * [Kentico Kontent](https://kontent.ai/) - A headless CMS loved by both developers and marketers.
 * [KeystoneJS](https://keystonejs.com/) - Configure your schema in JavaScript, and KeystoneJS will generate a powerful GraphQL API and CMS.
+* [Payload CMS](https://payloadcms.com/) - A self-hosted, headless CMS with code-first configuration, customizable admin panel, and a rich editing experience.
 * [prismic.io](https://prismic.io/) - Prismic is a Content Management System, a tool for editing online content.
 * [Perch Runaway](https://perchrunway.com/) - A powerful CMS for developing content-centric websites.
 * [Silverstripe CMS](https://www.silverstripe.org) - A rapid development MVC framework which can be queried either via GraphQL or a custom API.
