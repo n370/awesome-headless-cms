@@ -82,6 +82,7 @@ A community curated list of Headless CMS tools, blogs and other resources.
 * [Directus](https://getdirectus.com/) - Directus is an open-source tool that wraps custom SQL databases with a dynamic API, and provides an intuitive admin app for managing its content.
 * [dotCMS](http://dotcms.com/) - We are the next-generation platform that supports both the flexibility of a headless CMS, with the efficiency of traditional content authoring.
 * [Flextype](https://flextype.org/) - Flextype provides faster, more productive way for you to build and manage content for any kind of projects.
+* [Flotiq](https://flotiq.com/) - API-first content management platform that works with any technology, framework, and language.
 * [FrontAid CMS](https://frontaid.io/) - Git-based headless CMS for JSON files.
 * [Graph CMS](https://graphcms.com/) - Rapidly deliver digital content at scale.
 * [Kentico Kontent](https://kontent.ai/) - A headless CMS loved by both developers and marketers.
