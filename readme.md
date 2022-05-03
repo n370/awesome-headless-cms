@@ -70,6 +70,7 @@ A community curated list of Headless CMS tools, blogs and other resources.
 * [Easy decoupled sitebuilding with GraphQL and Next.js](https://www.youtube.com/watch?v=XcWsa3s8GnE)
 
 ## Tools
+* [Atomic-Server](https://github.com/atomicdata-dev/atomic-data-rust/) - Performant open source headless CMS with an embedded database, written in Rust.
 * [Agility CMS](https://agilitycms.com/) - Agility CMS supports RESTful and GraphQL APIs for fast and easy integration with any system.
 * [Buckets](http://buckets.io/) - Buckets is an Open Source CMS built on Node.js and MongoDB.
 * [ButterCMS](https://buttercms.com/) - Headless CMS you'll melt over.
