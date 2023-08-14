@@ -88,6 +88,7 @@ A community curated list of Headless CMS tools, blogs and other resources.
 * [Flotiq](https://flotiq.com/) - API-first content management platform that works with any technology, framework, and language.
 * [FrontAid CMS](https://frontaid.io/) - Git-based headless CMS for JSON files.
 * [Graph CMS](https://graphcms.com/) - Rapidly deliver digital content at scale.
+* [Graphweaver](https://graphweaver.com/) - Turn multiple data sources into a single GraphQL API.
 * [Kentico Kontent](https://kontent.ai/) - A headless CMS loved by both developers and marketers.
 * [KeystoneJS](https://keystonejs.com/) - Configure your schema in JavaScript, and KeystoneJS will generate a powerful GraphQL API and CMS.
 * [Payload CMS](https://payloadcms.com/) - A self-hosted, headless CMS with code-first configuration, customizable admin panel, and a rich editing experience.
