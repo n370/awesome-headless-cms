@@ -37,6 +37,7 @@ A community curated list of Headless CMS tools, blogs and other resources.
 * [The Ultimate Guide for Headless Content Management Systems](http://www.cms-connected.com/News-Archive/December-2016/The-Ultimate-Guide-for-Headless-Content-Management) - [@cmsconnected](https://twitter.com/cmsconnected)
 * [Built.io wants to challenge Drupal and WordPress with its headless CMS](https://techcrunch.com/2016/03/10/built-io-wants-to-challenge-drupal-and-wordpress-with-its-headless-cms/.) - [@TechCrunch](https://twitter.com/techcrunch)
 * [What is a headless CMS?](http://www.oshyn.com/Blogs/2016/december/Headless-CMS) - [@Oshyn_Inc](https://twitter.com/Oshyn_Inc).
+* [How to Integrate a Headless CMS in a React App in Easy Steps](https://www.lytecms.com/blog/how-to-integrate-headless-cms-in-react-app) - [@lytecms](https://twitter.com/lytecms)
 * [Perch Runway 3 as a Headless CMS](https://grabaperch.com/blog/archive/perch-runway-3-as-a-headless-cms) - [@grabaperch](https://twitter.com/grabaperch).
 * [Decoupling with a Headless CMS](https://symfony-cms.net/decoupling-headless-cms)
 * [Headless CMS – just a fad?](http://www.digitalclaritygroup.com/headless-cms/) - [@Just_Clarity](https://twitter.com/Just_Clarity).
