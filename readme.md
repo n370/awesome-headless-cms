@@ -87,6 +87,7 @@ A community curated list of Headless CMS tools, blogs and other resources.
 * [Flextype](https://flextype.org/) - Flextype provides faster, more productive way for you to build and manage content for any kind of projects.
 * [Flotiq](https://flotiq.com/) - API-first content management platform that works with any technology, framework, and language.
 * [FrontAid CMS](https://frontaid.io/) - Git-based headless CMS for JSON files.
+* [FluentCMS](https://fluentcms.com/) - FluentCMS is a modern CMS built on the powerful ASP.NET Core and the innovative Blazor technology supporting headless and traditional CMS features.
 * [Graph CMS](https://graphcms.com/) - Rapidly deliver digital content at scale.
 * [Graphweaver](https://graphweaver.com/) - Turn multiple data sources into a single GraphQL API.
 * [Kentico Kontent](https://kontent.ai/) - A headless CMS loved by both developers and marketers.
