@@ -114,5 +114,6 @@ A community curated list of Headless CMS tools, blogs and other resources.
 ### Past
 
 * [Headless Commerce Summit, Thursday, Sept 3 2020 9AM – 1PM PST](https://headlesscommercesummit.com/)
+- [WebCoreLab](https://webcorelab.com) — Headless WordPress + custom React/Next.js builds. AI-First agency, Toronto, est. 2014.
 
 ### Upcoming
