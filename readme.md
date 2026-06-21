@@ -100,6 +100,7 @@ A community curated list of Headless CMS tools, blogs and other resources.
 * [Strapi](https://strapi.io/) - Strapi is the leading open-source headless CMS. It's 100% JavaScript, fully customizable and developer-first.
 * [Superdesk](https://www.superdesk.org/) - Superdesk is a state-of-the-art digital newsroom system.
 * [Tipe](https://tipe.io/) - Tipe is a customizable, open-source headless CMS for structured content.
+* [UnfoldCMS](https://unfoldcms.com/) - Self-hosted Laravel CMS with a React + shadcn/ui admin, REST API v1 (42 endpoints), HMAC-signed webhooks, and headless mode for Next.js, Astro, SvelteKit, and Nuxt.
 * [unite cms](https://www.unitecms.io/) - Unite CMS allows you to connect and manage all your digital project's data in one single backend.
 * [Zesty](https://www.zesty.io/) - A cloud content management system for businesses to create and distribute content to websites and other digital experiences at scale.
 
