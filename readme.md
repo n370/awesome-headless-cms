@@ -13,6 +13,7 @@ A community curated list of Headless CMS tools, blogs and other resources.
 * [Webinars](#webinars)
 * [Videos](#videos)
 * [Tools](#tools)
+* [Developer Tools](#developer-tools)
 * [Resources](#resources)
 * [Conferences](#conferences)
 
@@ -102,6 +103,10 @@ A community curated list of Headless CMS tools, blogs and other resources.
 * [Tipe](https://tipe.io/) - Tipe is a customizable, open-source headless CMS for structured content.
 * [unite cms](https://www.unitecms.io/) - Unite CMS allows you to connect and manage all your digital project's data in one single backend.
 * [Zesty](https://www.zesty.io/) - A cloud content management system for businesses to create and distribute content to websites and other digital experiences at scale.
+
+## Developer Tools
+
+* [Payload Components](https://www.payload-components.xyz/) - MIT registry and CLI for installing wired Payload CMS blocks into Payload v3 and Next.js projects.
 
 ## Resources
 
