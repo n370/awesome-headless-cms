@@ -109,6 +109,8 @@ A community curated list of Headless CMS tools, blogs and other resources.
 * [StaticGen](https://www.staticgen.com/) - A List of Static Site Generators for Jamstack Sites.
 * [Headless Commerce](https://headlesscommerce.org/) - A community curated list of commerce products, services, podcasts, books, and more.
 
+* [Payload Components](https://www.payload-components.xyz) - MIT registry of typed Payload CMS blocks for Payload v3 + Next.js 15/16, with source installation and automated Pages, renderer, types, and import-map wiring.
+
 ## Conferences
 
 ### Past
