@@ -72,6 +72,7 @@ A community curated list of Headless CMS tools, blogs and other resources.
 ## Tools
 * [Atomic-Server](https://github.com/atomicdata-dev/atomic-data-rust/) - Performant open source headless CMS with an embedded database, written in Rust.
 * [Agility CMS](https://agilitycms.com/) - Agility CMS supports RESTful and GraphQL APIs for fast and easy integration with any system.
+* [btlabs Core](https://btlabs.dev/) - Hosted multilingual CMS with a public read API, per-language llms.txt and an MCP server (OAuth or API key) for AI agents.
 * [Buckets](http://buckets.io/) - Buckets is an Open Source CMS built on Node.js and MongoDB.
 * [ButterCMS](https://buttercms.com/) - Headless CMS you'll melt over.
 * [Cloud CMS](https://www.cloudcms.com/) - Cloud CMS is a headless, API-first approach to content management, built around JSON and a high performance cloud architecture.
