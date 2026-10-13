@@ -95,6 +95,7 @@ A community curated list of Headless CMS tools, blogs and other resources.
 * [Payload CMS](https://payloadcms.com/) - A self-hosted, headless CMS with code-first configuration, customizable admin panel, and a rich editing experience.
 * [Perch Runaway](https://perchrunway.com/) - A powerful CMS for developing content-centric websites.
 * [prismic.io](https://prismic.io/) - Prismic is a Content Management System, a tool for editing online content.
+* [Quilzo](https://github.com/quilzo/quilzo) - Self-hosted CMS for AI agents in one Go binary: agents draft content under a declared policy and a person approves what goes live, with a REST content API, typed content, drafts and scheduled publishing.
 * [Silverstripe CMS](https://www.silverstripe.org) - A rapid development MVC framework which can be queried either via GraphQL or a custom API.
 * [StoryBlok](https://www.storyblok.com/) - Storyblok helps your team to tell your story and manage content for every use-case.
 * [Strapi](https://strapi.io/) - Strapi is the leading open-source headless CMS. It's 100% JavaScript, fully customizable and developer-first.
