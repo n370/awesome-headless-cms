@@ -74,6 +74,7 @@ A community curated list of Headless CMS tools, blogs and other resources.
 * [Agility CMS](https://agilitycms.com/) - Agility CMS supports RESTful and GraphQL APIs for fast and easy integration with any system.
 * [Buckets](http://buckets.io/) - Buckets is an Open Source CMS built on Node.js and MongoDB.
 * [ButterCMS](https://buttercms.com/) - Headless CMS you'll melt over.
+* [Caelo](https://caelo-cms.com/) - Open-source AI-first CMS for static websites, edited from a built-in chat or from external agents over MCP, with drafts, snapshots and human-approved publishing.
 * [Cloud CMS](https://www.cloudcms.com/) - Cloud CMS is a headless, API-first approach to content management, built around JSON and a high performance cloud architecture.
 * [Cockpit](https://getcockpit.com/) - Simple Content Platform to manage any structured content.
 * [Contember](https://www.contember.com) - Bespoke content management. Build and run GraphQL API and user-centric administration without any hassle.
