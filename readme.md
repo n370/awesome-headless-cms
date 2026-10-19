@@ -92,6 +92,7 @@ A community curated list of Headless CMS tools, blogs and other resources.
 * [Kentico Kontent](https://kontent.ai/) - A headless CMS loved by both developers and marketers.
 * [KeystoneJS](https://keystonejs.com/) - Configure your schema in JavaScript, and KeystoneJS will generate a powerful GraphQL API and CMS.
 * [LightCMS](https://metavert.io/) - AI-native headless CMS built with Go and MongoDB. Features REST API, MCP (Model Context Protocol) integration with 41 tools for AI-powered content management, templates, asset management, themes, collections, redirects, and content versioning.
+* [Paperboy](https://github.com/hybriden/paperboy) - Open-source, self-hosted headless CMS (TypeScript + PostgreSQL) with a page tree, visual on-page editing, forms, redirects, multisite, generated SEO/JSON-LD and a built-in MCP server so AI agents can edit and publish content.
 * [Payload CMS](https://payloadcms.com/) - A self-hosted, headless CMS with code-first configuration, customizable admin panel, and a rich editing experience.
 * [Perch Runaway](https://perchrunway.com/) - A powerful CMS for developing content-centric websites.
 * [prismic.io](https://prismic.io/) - Prismic is a Content Management System, a tool for editing online content.
