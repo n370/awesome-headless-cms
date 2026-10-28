@@ -77,6 +77,7 @@ A community curated list of Headless CMS tools, blogs and other resources.
 * [Cloud CMS](https://www.cloudcms.com/) - Cloud CMS is a headless, API-first approach to content management, built around JSON and a high performance cloud architecture.
 * [Cockpit](https://getcockpit.com/) - Simple Content Platform to manage any structured content.
 * [Contember](https://www.contember.com) - Bespoke content management. Build and run GraphQL API and user-centric administration without any hassle.
+* [Contentrain](https://contentrain.io) - Content governance for teams and AI agents: JSON and Markdown content in your Git repository, MCP tools for agents, review in Studio, open-source SDKs.
 * [Contentful](https://www.contentful.com/) - The content platform for the digital-first era.
 * [Contentstack](https://www.contentstack.com/developers-cms) - A CMS by Developers for Developers.
 * [CosmicJS](https://cosmicjs.com/) - Headless CMS and API toolkit to help your team build modern apps faster, together.
