@@ -38,7 +38,7 @@ A community curated list of Headless CMS tools, blogs and other resources.
 * [What is a headless CMS?](http://www.oshyn.com/Blogs/2016/december/Headless-CMS) - [@Oshyn_Inc](https://twitter.com/Oshyn_Inc).
 * [How to Integrate a Headless CMS in a React App in Easy Steps](https://www.lytecms.com/blog/how-to-integrate-headless-cms-in-react-app) - [@lytecms](https://twitter.com/lytecms)
 * [Perch Runway 3 as a Headless CMS](https://grabaperch.com/blog/archive/perch-runway-3-as-a-headless-cms) - [@grabaperch](https://twitter.com/grabaperch).
-* [Decoupling with a Headless CMS](https://symfony-cms.net/decoupling-headless-cms)
+* [Best CMS for Teams (2026): Webflow vs WordPress vs Headless](https://www.pinecone.agency/blog/choosing-a-cms-for-the-team-that-uses-it) - [@PineconeAgency](https://twitter.com/PineconeAgency).
 * [Headless CMS – just a fad?](http://www.digitalclaritygroup.com/headless-cms/) - [@Just_Clarity](https://twitter.com/Just_Clarity).
 * [Headless vs. Decoupled CMS Architecture](https://hackernoon.com/headless-vs-decoupled-cms-architecture-e240838fbc99) - [@carsoncgibbons](https://twitter.com/carsoncgibbons).
 * [Use Cases for a Headless CMS](http://gadgetopia.com/post/9743) - [@gadgetopia](https://twitter.com/gadgetopia/).
