@@ -96,6 +96,7 @@ A community curated list of Headless CMS tools, blogs and other resources.
 * [Perch Runaway](https://perchrunway.com/) - A powerful CMS for developing content-centric websites.
 * [prismic.io](https://prismic.io/) - Prismic is a Content Management System, a tool for editing online content.
 * [Silverstripe CMS](https://www.silverstripe.org) - A rapid development MVC framework which can be queried either via GraphQL or a custom API.
+* [Sitecog](https://sitecog.com/) - Hosted headless CMS with on-page visual editing for sites on any stack, REST API, auto-translation and built-in CRM, live chat and forms.
 * [StoryBlok](https://www.storyblok.com/) - Storyblok helps your team to tell your story and manage content for every use-case.
 * [Strapi](https://strapi.io/) - Strapi is the leading open-source headless CMS. It's 100% JavaScript, fully customizable and developer-first.
 * [Superdesk](https://www.superdesk.org/) - Superdesk is a state-of-the-art digital newsroom system.
