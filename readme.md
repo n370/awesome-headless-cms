@@ -84,6 +84,7 @@ A community curated list of Headless CMS tools, blogs and other resources.
 * [Directus](https://getdirectus.com/) - Directus is an open-source tool that wraps custom SQL databases with a dynamic API, and provides an intuitive admin app for managing its content.
 * [dotCMS](http://dotcms.com/) - We are the next-generation platform that supports both the flexibility of a headless CMS, with the efficiency of traditional content authoring.
 * [Easyweb](https://www.easyweb.site/) - Easyweb is a minimalistic user friendly headless CMS for hand crafted sites, shops, apps and digital projects.
+* [Fimo](https://fimo.ai/) - AI website platform and CMS. Schema-driven collections, singles, media and forms for sites built with Next.js, Astro, SvelteKit or React Router, with hosting, a preview Branch for every change, and a CLI and MCP server for coding agents.
 * [Flextype](https://flextype.org/) - Flextype provides faster, more productive way for you to build and manage content for any kind of projects.
 * [Flotiq](https://flotiq.com/) - API-first content management platform that works with any technology, framework, and language.
 * [FrontAid CMS](https://frontaid.io/) - Git-based headless CMS for JSON files.
