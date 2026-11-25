@@ -27,7 +27,7 @@ A community curated list of Headless CMS tools, blogs and other resources.
 * [Decoupled CMS: How to use WordPress and Drupal CMSs with modern frontends, mobile apps, and even IoT devices](https://pantheon.io/decoupled-cms) - [@getpantheon](https://twitter.com/getpantheon).
 * [The Nearly-Headless CMS](https://alistapart.com/column/nearly-headless-cms) - [@dirtystylus](https://twitter.com/dirtystylus).
 * [What are the examples of decoupled/headless CMSs?](https://qr.ae/pNPZuN) - [@Quora](https://twitter.com/Quora).
-* [A Headless CMS Won't Solve All Your Woes](http://www.cmswire.com/web-cms/a-headless-cms-wont-solve-all-your-woes/) - [@bkraft](https://twitter.com/bkraft).
+* [A Headless CMS Won't Solve All Your Woes](http://www.cmswire.com/web-cms/a-headless-cms-wont-solve-all-your-woes/).
 * [Two Headless CMS - Head to Head](https://medium.com/apegroup-texts/two-headless-cms-head-to-head-94ea26b0b80f#.cocaed99l) - [@elektromin](https://twitter.com/elektromin).
 * [Cloud-First Headless CMS: What It Is and Why You Should Use It](https://www.cmscritic.com/cloud-first-headless-cms-what-it-is-and-why-you-should-use-it/) - [@cmscritic](https://.twitter.com/cmscritic)
 * [What is a cloud-first headless CMS?](https://kontent.ai/blog/what-is-headless-cms) - [@KenticoKontent](https://twitter.com/kenticokontent).
@@ -38,25 +38,20 @@ A community curated list of Headless CMS tools, blogs and other resources.
 * [What is a headless CMS?](http://www.oshyn.com/Blogs/2016/december/Headless-CMS) - [@Oshyn_Inc](https://twitter.com/Oshyn_Inc).
 * [How to Integrate a Headless CMS in a React App in Easy Steps](https://www.lytecms.com/blog/how-to-integrate-headless-cms-in-react-app) - [@lytecms](https://twitter.com/lytecms)
 * [Perch Runway 3 as a Headless CMS](https://grabaperch.com/blog/archive/perch-runway-3-as-a-headless-cms) - [@grabaperch](https://twitter.com/grabaperch).
-* [Decoupling with a Headless CMS](https://symfony-cms.net/decoupling-headless-cms)
 * [Headless CMS – just a fad?](http://www.digitalclaritygroup.com/headless-cms/) - [@Just_Clarity](https://twitter.com/Just_Clarity).
 * [Headless vs. Decoupled CMS Architecture](https://hackernoon.com/headless-vs-decoupled-cms-architecture-e240838fbc99) - [@carsoncgibbons](https://twitter.com/carsoncgibbons).
-* [Use Cases for a Headless CMS](http://gadgetopia.com/post/9743) - [@gadgetopia](https://twitter.com/gadgetopia/).
 * [Decoupled CMS is the New Black](http://gadgetopia.com/post/7330) - [@gadgetopia](https://twitter.com/gadgetopia/).
-* [Sitecore as a true headless CMS](https://www.sitecore.net/da-dk/company/blog/356/sitecore-as-a-true-headless-cms-4418) - [@Sitecore](https://twitter.com/Sitecore).
-* [Building Decoupled Sites and Apps with GraphQL and Next.js](https://malloc.fi/building-decoupled-sites-and-apps-with-graphql-and-next-js) - [@velmu](https://twitter.com/velmu).
 
 ## Documents
 
 <!--lint disable awesome-list-item-->
 * [The Rise Of The Headless Content ManagementSystem](documents/the-rise-of-the-headless-cms.pdf) - [@forrester](https://twitter.com/forrester).
 * [The case for headless CMS](documents/EffectiveUI_HeadlessCMS.pdf) - [@effectiveui](https://twitter.com/effectiveui/).
-* [State of the Headless CMS Market 2020](https://tracker.kontent.ai/592920/state-of-the-headless-cms-market-2020) - [@kenticokontent](https://twitter.com/kenticokontent/).
 <!--lint enable awesome-list-item-->
 
 ## Speaker Decks
 
-* [WordPress as a Headless CMS](https://www.slideshare.net/WordCampSydney/wordpress-as-a-headless-cms) - [@bronsonquick](https://twitter.com/bronsonquick).
+* [WordPress as a Headless CMS](https://www.slideshare.net/WordCampSydney/wordpress-as-a-headless-cms).
 * [Easy decoupled sitebuilding with GraphQL and Next.js](https://janit.iki.fi/cms-graphql-nextjs/#/)
 
 ## Webinars
@@ -108,11 +103,11 @@ A community curated list of Headless CMS tools, blogs and other resources.
 * [Headless CMS](https://headlesscms.org/) - A List of Content Management Systems for Jamstack Sites.
 * [StaticGen](https://www.staticgen.com/) - A List of Static Site Generators for Jamstack Sites.
 * [Headless Commerce](https://headlesscommerce.org/) - A community curated list of commerce products, services, podcasts, books, and more.
+* [Headless Shopify](https://swavent.com/en/services/shopify-headless) - Headless Shopify development.
 
 ## Conferences
 
 ### Past
 
-* [Headless Commerce Summit, Thursday, Sept 3 2020 9AM – 1PM PST](https://headlesscommercesummit.com/)
 
 ### Upcoming
